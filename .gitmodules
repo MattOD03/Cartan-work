@@ -1,0 +1,3 @@
+[submodule "Papers"]
+	path = Papers
+	url = https://github.com/MattOD03/Cartan-papers.git
